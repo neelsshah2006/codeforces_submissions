@@ -1,7 +1,6 @@
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class DEvenOddGame {
     static class FastScanner {
